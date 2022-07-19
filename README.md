@@ -4,7 +4,7 @@
 
 <!--ABOUT ME-->
 <p>Hey stranger 👋,</p>
-I'm David, a mobile application developer that specializes in using Flutter technology and the Dart programming language to create mobile software solutions. I enjoy learning new technologies. I'm also considering diving into backend development with Dart.
+I'm David, a mobile application developer that specializes in using Flutter technology and the Dart programming language to create mobile software solutions. I enjoy learning new technologies. Don't be a stranger, get to know me!</p>
 
 <!--WRITTEN ARTICLES-->
 ## 📑 Check out some articles I've written
@@ -13,21 +13,18 @@ I'm David, a mobile application developer that specializes in using Flutter tech
 
 <!--PROJECTS/REPOS-->
 ## 💻 Few projects I've played around with
-<!--clima-->
-<a href="https://github.com/davidnwaneri/clima">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=davidnwaneri&repo=clima&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+
 <!--flutter apprentice playground-->
 <a href="https://github.com/davidnwaneri/flutter-apprentice-playground">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=davidnwaneri&repo=flutter-apprentice-playground&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github.com/davidnwaneri/flutter-apprentice-playground/blob/main/assets/app.gif?raw=true" width="260" />
 </a>
-<!--note taking app-->
-<a href="https://github.com/davidnwaneri/note_taking_app">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=davidnwaneri&repo=note_taking_app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<!--simple e-commerce app-->
+<a href="https://github.com/davidnwaneri/simple_ecommerce_app">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github.com/davidnwaneri/simple_ecommerce_app/blob/main/assets/device-2022-07-08-162909.gif?raw=true" width="260" />
 </a>
-<!--flutter projects-->
-<a href="https://github.com/davidnwaneri/flutter_projects">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=davidnwaneri&repo=flutter_projects&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<!--clima-->
+<a href="https://github.com/davidnwaneri/clima">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github.com/davidnwaneri/clima/blob/main/output/clima-project.gif?raw=true" width="260"/>
 </a>
 
 <!--SKILLS-->
@@ -38,7 +35,8 @@ I'm David, a mobile application developer that specializes in using Flutter tech
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=e44c30&color=3a2b00)
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=white)
 
-...
+... <i>more loading</i>
+
 
 <!---
 davidnwaneri/davidnwaneri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
