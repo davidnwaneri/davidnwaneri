@@ -15,8 +15,8 @@ I'm David, a mobile application developer that specializes in using Flutter tech
 ## 💻 Few projects I've played around with
 
 <!--flutter apprentice playground-->
-<a href="https://github.com/davidnwaneri/flutter-apprentice-playground">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github.com/davidnwaneri/flutter-apprentice-playground/blob/main/assets/app.gif?raw=true" width="260" />
+<a href="https://github.com/davidnwaneri/fooderlich_app">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github.com/davidnwaneri/fooderlich_app/blob/main/assets/app1.gif?raw=true" width="260" />
 </a>
 <!--simple e-commerce app-->
 <a href="https://github.com/davidnwaneri/simple_ecommerce_app">
