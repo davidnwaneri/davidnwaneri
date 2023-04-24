@@ -9,6 +9,7 @@ I'm David, a mobile application developer that specializes in using Flutter tech
 <!--WRITTEN ARTICLES-->
 ## 📑 Check out some articles I've written
 - [Implicit Vs Explicit: Understand the concept](https://davidnwaneri.medium.com/implicit-vs-explicit-understand-the-concept-e5ebaca02471)
+- [Building a custom numeric keypad in Flutter](https://davidnwaneri.com/building-a-custom-numeric-keypad-in-flutter)
 ##### *more coming soon*
 
 <!--PROJECTS/REPOS-->
