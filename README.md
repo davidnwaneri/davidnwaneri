@@ -1,10 +1,18 @@
 <!--BANNER IMAGE AND SOCIAL LINKS-->
 ![David](assets/mycard.png "Your friendly neighborhood Flutter Dev")
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2)](<https://twitter.com/davidnwaneri_>) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0072B1)](https://www.linkedin.com/in/davidnwaneri/)
+
+<div style="text-align: center;">
+  <a href="https://twitter.com/davidnwaneri">
+    <img src="https://img.shields.io/badge/Profile-informational?style=for-the-badge&logo=x&logoColor=white&color=000000" alt="X Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/davidnwaneri/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0072B1" alt="LinkedIn Badge">
+  </a>
+</div>
 
 <!--ABOUT ME-->
 <p>Hey stranger 👋,</p>
-I'm David, a mobile application developer that specializes in using Flutter technology and the Dart programming language to create mobile software solutions. I enjoy learning new technologies. Don't be a stranger, get to know me!</p>
+I'm David, a mobile application developer who specializes in using Flutter technology and the Dart programming language to create mobile software solutions. I enjoy learning new technologies. Don't be a stranger, get to know me!</p>
 
 <!--WRITTEN ARTICLES-->
 ## 📑 Check out some articles I've written
@@ -33,13 +41,17 @@ https://github.com/davidnwaneri/simple_notes_app/assets/48889672/3bb37c7d-1f9e-4
 
 <!--SKILLS-->
 ## 🦾🧠 Skills
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=00bded&color=015393)
-![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=2cb7f6&color=03589c)
-![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=f2c129&color=white)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=e44c30&color=3a2b00)
-![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=white)
+<div style="text-align: center">
+  <img src="https://img.shields.io/badge/Flutter-informational?style=for-the-badge&logo=flutter&logoColor=00bded&color=015393">
+  <img src="https://img.shields.io/badge/Dart-informational?style=for-the-badge&logo=dart&logoColor=2cb7f6&color=03589c">
+  <img src="https://img.shields.io/badge/Firebase-informational?style=for-the-badge&logo=firebase&logoColor=f2c129&color=white">
+  <img src="https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=e44c30&color=3a2b00">
+  <img src="https://img.shields.io/badge/Github-informational?style=for-the-badge&logo=github&logoColor=181717&color=white">
+  <img src="https://img.shields.io/badge/Github Actions-informational?style=for-the-badge&logo=githubactions&logoColor=2088FF&color=white">
+  <img src="https://img.shields.io/badge/Codemagic-informational?style=for-the-badge&logo=codemagic&logoColor=F45E3F&color=white">
+</div>
 
-... <i>more loading</i>
+... <i>others</i>
 
 
 <!---
