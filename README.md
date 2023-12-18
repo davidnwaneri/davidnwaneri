@@ -1,14 +1,14 @@
 <!--BANNER IMAGE AND SOCIAL LINKS-->
 ![David](assets/mycard.png "Your friendly neighborhood Flutter Dev")
 
-<div style="text-align: center;">
+<p align="center">
   <a href="https://twitter.com/davidnwaneri">
     <img src="https://img.shields.io/badge/Profile-informational?style=for-the-badge&logo=x&logoColor=white&color=000000" alt="X Badge">
   </a>
   <a href="https://www.linkedin.com/in/davidnwaneri/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0072B1" alt="LinkedIn Badge">
   </a>
-</div>
+</p>
 
 <!--ABOUT ME-->
 <p>Hey stranger 👋,</p>
@@ -41,7 +41,7 @@ https://github.com/davidnwaneri/simple_notes_app/assets/48889672/3bb37c7d-1f9e-4
 
 <!--SKILLS-->
 ## 🦾🧠 Skills
-<div style="text-align: center">
+<p align="center">
   <img src="https://img.shields.io/badge/Flutter-informational?style=for-the-badge&logo=flutter&logoColor=00bded&color=015393">
   <img src="https://img.shields.io/badge/Dart-informational?style=for-the-badge&logo=dart&logoColor=2cb7f6&color=03589c">
   <img src="https://img.shields.io/badge/Firebase-informational?style=for-the-badge&logo=firebase&logoColor=f2c129&color=white">
@@ -49,7 +49,7 @@ https://github.com/davidnwaneri/simple_notes_app/assets/48889672/3bb37c7d-1f9e-4
   <img src="https://img.shields.io/badge/Github-informational?style=for-the-badge&logo=github&logoColor=181717&color=white">
   <img src="https://img.shields.io/badge/Github Actions-informational?style=for-the-badge&logo=githubactions&logoColor=2088FF&color=white">
   <img src="https://img.shields.io/badge/Codemagic-informational?style=for-the-badge&logo=codemagic&logoColor=F45E3F&color=white">
-</div>
+</p>
 
 ... <i>others</i>
 
