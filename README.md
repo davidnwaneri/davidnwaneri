@@ -16,9 +16,9 @@ I'm David, a mobile application developer who specializes in using Flutter techn
 
 <!--WRITTEN ARTICLES-->
 ## 📑 Check out some articles I've written
-- [Implicit Vs Explicit: Understand the concept](https://davidnwaneri.com/implicit-vs-explicit-understand-the-concept-e5ebaca02471)
-- [Building a custom numeric keypad in Flutter](https://davidnwaneri.com/building-a-custom-numeric-keypad-in-flutter)
-- [Managing a monorepo with melos](https://davidnwaneri.com/a-concise-guide-to-managing-a-monorepo-in-a-dart-project-with-melos)
+- [Implicit Vs Explicit: Understand the concept](https://davidnwaneri.hashnode.dev/implicit-vs-explicit-understand-the-concept-e5ebaca02471)
+- [Building a custom numeric keypad in Flutter](https://davidnwaneri.hashnode.dev/building-a-custom-numeric-keypad-in-flutter)
+- [Managing a monorepo with melos](https://davidnwaneri.hashnode.dev/a-concise-guide-to-managing-a-monorepo-in-a-dart-project-with-melos)
 ##### *more coming soon*
 
 <!--PROJECTS/REPOS-->
