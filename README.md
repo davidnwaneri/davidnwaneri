@@ -1,5 +1,5 @@
 <!--BANNER IMAGE AND SOCIAL LINKS-->
-![David](assets/mycard.png "Your friendly neighborhood Flutter Dev")
+![David](assets/micard.jpeg "Your friendly neighborhood Flutter Dev")
 
 <p align="center">
   <a href="https://twitter.com/davidnwaneri">
