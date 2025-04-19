@@ -1,14 +1,12 @@
 <!--BANNER IMAGE AND SOCIAL LINKS-->
 ![David](assets/micard.jpeg "Your friendly neighborhood Flutter Dev")
 
-<p align="center">
-  <a href="https://twitter.com/davidnwaneri">
-    <img src="https://img.shields.io/badge/Profile-informational?style=for-the-badge&logo=x&logoColor=white&color=000000" alt="X Badge">
-  </a>
-  <a href="https://www.linkedin.com/in/davidnwaneri/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0072B1" alt="LinkedIn Badge">
-  </a>
-</p>
+<div align="center">
+
+![X Badge](https://img.shields.io/badge/Profile-informational?style=for-the-badge&logo=x&logoColor=white&color=000000)
+![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0072B1)
+
+</div>
 
 <!--ABOUT ME-->
 <p>Hey stranger 👋,</p>
