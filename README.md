@@ -3,8 +3,8 @@
 
 <div align="center">
 
-![X Badge](https://img.shields.io/badge/Profile-informational?style=for-the-badge&logo=x&logoColor=white&color=000000)
-![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0072B1)
+[![X Badge](https://img.shields.io/badge/Profile-informational?style=for-the-badge&logo=x&logoColor=white&color=000000)](https://x.com/davidnwaneri_)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0072B1)](https://www.linkedin.com/in/davidnwaneri)
 
 </div>
 
@@ -37,7 +37,7 @@ https://github.com/davidnwaneri/simple_notes_app/assets/48889672/3bb37c7d-1f9e-4
 </a>
 
 <!--TOOLS-->
-## 🦾🧠 Some tools
+## 🦾🧠 Some Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-informational?style=for-the-badge&logo=flutter&logoColor=00bded&color=015393">
   <img src="https://img.shields.io/badge/Dart-informational?style=for-the-badge&logo=dart&logoColor=2cb7f6&color=03589c">
